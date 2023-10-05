@@ -1,3 +1,7 @@
+Expense Tracker using React + TypeScript 
+Basically we can add and delete all the category items and price will be tracked automatically.Filter is applied for tracking the expenses regarding particular category.
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
